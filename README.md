@@ -1,3 +1,11 @@
+Extended Raspicam library
+========================
+
+Extension of raspicam library from https://www.uco.es/investiga/grupos/ava/node/40. I added methods to the Raspicam_cv class.
+
+Original readme
+---------------
+
 
 This library allows to use the Raspberry Pi Camera. 
 
